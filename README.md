@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# angular_mission
-=======
 ### Angular Mission
 ---
 
@@ -44,4 +41,3 @@ Attached the example to the screens on the next page.
 ### Task edit
 
 ![Task edit](https://github.com/okigor/angular_mission/blob/master/documentation/pic3.png "Task edit")
->>>>>>> a6c9fb556fb284454a08d2169fdae387296f2791
